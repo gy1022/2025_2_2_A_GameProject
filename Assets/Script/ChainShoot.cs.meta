@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70c03efe045b08543ae32141b706f781
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerFirepoint: {instanceID: 0}
+  - playerEnemyDetector: {instanceID: 0}
+  - IinRendererPrefab: {fileID: 3688888594458182648, guid: ec9adb9ef4630514389346cea7aafc04,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
